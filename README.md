@@ -69,12 +69,12 @@
 </tr>
 <tr>
   <td>1</td>
-  <th>CsharpAdvanceExam_23.06.2019</th>
-  <td><a href="https://github.com/nikolay-doichev/Csharp-Advance-May-2019/tree/master/CsharpAdvanceExam_23.06.2019_GoodLuck" >&#9997;</a></td>
+  <th>C# OOP RetakeExam - 15.08.2019</th>
+  <td><a href="https://github.com/nikolay-doichev/Csharp-OOP-May-2019/tree/master/C%23%20OOP%20RetakeExam%20-%2015.08.2019" >&#9997;</a></td>
 </tr>
 <tr>
   <td>2</td>
-  <th>DemoExam16.04.2019</th>
-  <td><a href="https://github.com/nikolay-doichev/Csharp-Advance-May-2019/tree/master/DemoExam16.04.2019" >&#9997;</a></td>
+  <th>C# OOP RetakeExam - 18.04.2019</th>
+  <td><a href="https://github.com/nikolay-doichev/Csharp-OOP-May-2019/tree/master/C%23%20OOP%20RetakeExam%20-%2018.04.2019" >&#9997;</a></td>
 </tr>
   </table>
